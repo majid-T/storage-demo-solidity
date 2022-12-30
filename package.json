@@ -19,6 +19,6 @@
   "homepage": "https://github.com/GeorgeBrownCollege-Toronto/Advanced-Smart-Contracts/notes/solidity-assembly/lab/assemby-storage#readme",
   "devDependencies": {
     "bn.js": "^5.1.2",
-    "truffle": "^5.1.34"
+    "truffle": "^5.7.1"
   }
 }
